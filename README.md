@@ -15,14 +15,14 @@ This project was completed as part of a Full Stack AI Bootcamp. It involves usin
 ##  Technologies Used
 
 - Python, TensorFlow, Scikit-learn, Pandas, Matplotlib, SHAP
-
+  
 ##  Key Highlights
 
 - Used MLP (Multi-Layer Perceptron) for both regression and classification
 - Feature engineering with categorical encoding and standard scaling
 - SHAP used for model interpretability
 - Evaluation with MSE, classification report, and visualizations
-
+  
 ## Status
 
 Completed  
